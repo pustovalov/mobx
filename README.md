@@ -307,6 +307,8 @@ And finally, kudos to all the people that believed in, tried, validated and even
 
 > After using #mobx for lone projects for a few weeks, it feels awesome to introduce it to the team. Time: 1/2, Fun: 2X
 
+
+
 > Working with #mobx is basically a continuous loop of me going “this is way too simple, it definitely won’t work” only to be proven wrong
 
 > Try react-mobx with es6 and you will love it so much that you will hug someone.
